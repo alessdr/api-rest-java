@@ -21,7 +21,7 @@ Projeto foi criado com base no spring initializr (https://start.spring.io/), com
 
 Após este processo, foi baixado o arquivo zip gerado pelo spring initializr contendo a "base" do nosso projeto, e importado no Eclipse, seguido da implementação das funcionalidades desejadas.
 
-## Outras dependências
+## Base de dados
 
 - Para este exemplo, utilizamos uma base de dados PostgreSQL
 - As configurações do banco podem ser encontradas no arquivo "application.properties"
