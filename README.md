@@ -1,6 +1,6 @@
 # Exemplo e Api Rest criada com Java, Spring Boot e Swagger
 
-## Histórico:
+## Processo:
 
 Projeto foi criado com base no spring initializr (https://start.spring.io/), com as seguintes opções e dependências
 
