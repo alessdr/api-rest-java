@@ -1,8 +1,8 @@
-# Exemplo e Api Rest criada com Java, Spring Boot e Swagger
+# Exemplo de API REST criada com Java, Spring Boot, Swagger e Maven
 
 ## Processo de criação:
 
-Projeto foi criado com base no spring initializr (https://start.spring.io/), com as seguintes opções e dependências
+Projeto criado com base no spring initializr (https://start.spring.io/), com as seguintes opções e dependências
 
 - Opções:
 
